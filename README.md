@@ -2,8 +2,8 @@
 This repository contains some selected Data Analytics / Machine Learning projects which I completed during my Data Science training at Yandex.Practicum.
 
 ## Course description
-Course provider: Yandex LLC
-Website: https://practicum.yandex.com/
+Course provider: Yandex LLC<br>
+Website: https://practicum.yandex.com/<br>
 
 A data scientist structures and analyzes large amounts of data, applies machine learning to predict events and detect non-obvious patterns. Helps to create and improve products in business, industry and science.
 
