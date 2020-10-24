@@ -23,7 +23,10 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, plotly, Scikit-Learn, XGBoost, SQ
 
 **Status:** completed
 
-**Result:** patterns which determine the succes of a video game in different regions were revelead. Potentially profitable products were indetified and proposed for the advertising campaign. Specific customer profiles were compiled for each region. Statistical tests were used to check hypotheses: average user ratings for Xbox One and PC platforms are the same; the average user ratings for the Action and Sports genres are different.
+**Result:** patterns which determine the succes of a video game in different regions were revelead. Potentially profitable products were indetified and proposed for the advertising campaign. Specific customer profiles were compiled for each region. Statistical tests were used to check hypotheses: average user ratings for Xbox One and PC platforms are the same; the average user ratings for the Action and Sports genres are different.<br>
+
+
+...more coming soon...
 
 
 
