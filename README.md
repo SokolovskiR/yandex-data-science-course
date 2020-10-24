@@ -12,6 +12,7 @@ The course covers the basic tools of the profession: Python and its libraries, i
 ## Technology stack
 Programming language: Python (ver. 3)<br>
 IDE: Jupyter Notebook<br>
+Database: SQL<br>
 Libraries: Pandas, Numpy, Matplotlib, Seaborn, plotly, Scikit-Learn, XGBoost, SQL, Pymystem3, scipy<br>
 
 
