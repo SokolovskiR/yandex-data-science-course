@@ -29,4 +29,11 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, plotly, Scikit-Learn, XGBoost, SQ
 
 **Result:** patterns which determine the succes of a video game in different regions were revelead. Potentially profitable products were indetified and proposed for the advertising campaign. Specific customer profiles were compiled for each region. Statistical tests were used to check hypotheses: average user ratings for Xbox One and PC platforms are the same; the average user ratings for the Action and Sports genres are different.<br>
 
+### [2. ML in business: risk and revenue prediction in oil industry](2-PROJECT-profit-risk-prediction-oil-industry)
+**Project description:** The goal of the project is to predict the possible revenue of oil extraction in new regions of exploration using machine learning models on data from oil samples taken in different regions. Furthermore the risk of losses (negative revenue) should be statistically calculated using *Bootstrap* in compliance with the given budget .<br>
+
+**Status:** completed<br>
+
+**Result:** a predictive model was built using linear regression. The region with the lowest risk of loss and with the potentially highest revenue was proposed for development of new oil extraction points.<br>
+
 <img src="https://www.standmatters.nl/web/mod_files/portfolio_intro/detail/1525170944more.jpg" alt="drawing" width="400"/>
