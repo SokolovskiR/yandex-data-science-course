@@ -27,7 +27,7 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, plotly, Scikit-Learn, CatBoost, L
 
 ## Projects
 
-### [1. Identifying patterns which determine success of video games(01-video-games-success-patterns)
+### [1. Identifying patterns which determine success of video games](01-video-games-success-patterns)
 Exploratory data analysis of gaming industry.
 
 ### [2. ML in business: risk and revenue prediction in oil industry](02-profit-risk-prediction-oil-industry)
