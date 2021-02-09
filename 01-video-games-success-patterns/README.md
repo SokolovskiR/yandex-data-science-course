@@ -1,5 +1,5 @@
 ### 1. Identifying patterns which determine success of video games
-**Project description:** An online store which sells video games all over the world is planning an advertising campaign for the next year. Historical data on game sales, user and expert ratings, genres and platforms (for example, Xbox or PlayStation) are available from open sources. You need to identify the patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
+**Project description:** An online store which sells video games all over the world is planning an advertising campaign for the next year. Historical data on game sales, user and expert ratings, genres and platforms (for example, Xbox or PlayStation) are available from open sources. We need to identify the patterns that determine the success of the game. This will allow the business to bet on a potentially popular product and plan advertising campaigns.
 
 **Status:** completed
 
