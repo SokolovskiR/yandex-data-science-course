@@ -9,8 +9,11 @@ A data scientist structures and analyzes large amounts of data, applies machine 
 
 The course covers the basic tools of the profession: Python and its libraries, including Scikit-Learn and XGBoost, Jupyter Notebook, SQL.
 
+For a better experience you can use *nbviewer* for displaying Jupyter Notebooks: https://nbviewer.jupyter.org/
+
+
 ## Course duration
-8 months - beginning in sommer 2020
+June 2020 - February 2021 (8 Months)
 
 ## Technology stack
 Programming language: Python (ver. 3)<br>
