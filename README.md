@@ -34,7 +34,7 @@ Exploratory data analysis of gaming industry.
 Machine learning model to predict revenue and loss risk.
 
 ### [3. ML in business: prediction of gold recovery rate in mining industry](03-gold-recovery-prediction-mining-industry)
-Machine learning model to predict the gold recovery rate an stages of technological processing of gold-bearing ore.
+Machine learning model to predict the gold recovery rate at stages of technological processing of gold-bearing ore.
 
 
 <img src="https://www.standmatters.nl/web/mod_files/portfolio_intro/detail/1525170944more.jpg" alt="drawing" width="400"/>
