@@ -39,5 +39,8 @@ Machine learning model to predict the gold recovery rate at stages of technologi
 ### [4. Time Series: predict number of taxi orders](04-taxi-demand-time-series)
 Machine learning model to predict the number of taxi orders per hour.
 
+### [5. ML in business: car price prediction](05-used-car-price-prediction)
+Machine learning model to estimate the price of a used car.
+
 
 <img src="https://www.standmatters.nl/web/mod_files/portfolio_intro/detail/1525170944more.jpg" alt="drawing" width="400"/>
